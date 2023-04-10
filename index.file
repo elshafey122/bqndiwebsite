@@ -1,0 +1,141 @@
+التصميم الأول Bondi بواسطة Bootstrap 5 الفيديو - #01 - مقدمة عن الدورة التعليمية وتهيئة المشروع
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bondi</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/all.min.css">
+<link rel="stylesheet" href="bondi.css">
+<link rel="stylesheet" href="bondi.js">
+    <style>
+    </style>
+</head>
+<body>
+    <div class="alert alert-primary" role="alert">
+        A simple primary alert—check it out!
+      </div>
+    <i class="fa-solid fa-address-book fa-5x"></i>
+    
+<script src="js/all.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+
+
+التصميم الأول Bondi بواسطة Bootstrap 5 الفيديو - #02 - كيفية التعامل مع ال Classes
+
+يتم التعامل مع classes باستخدام bootstrap بالدخول للموقع الرسمى واختيار classes وفهم الشرح منها وكيفية الاستخدام وهكذا لاى عناصر من css
+
+
+
+text-center =>
+يستخدم لتوسيط العناصر 
+
+p-s =>
+padding start right
+
+p-e =>
+padding end left
+
+d-flex=>
+display flex
+
+pt-رقم =>
+padding top
+
+pb-رقم =>
+padding bootom
+
+mt-رقم(5)=>
+margin top
+
+mb-رقم(5)=>
+margin bottom
+
+text-black-50
+الكلام مايل للاسود
+
+text-white-50
+الكلام ابيض
+
+text-uppercase
+الحروف كبيرة
+
+text-center =>
+يجعل النص بالمنتصف
+
+sticky-top=>
+يستخدم فى تثبيت العنصر بالكامل بداخل الصفحة
+
+lh-lg-رقم =>
+يستخدم فى تحديد وضوح الرؤية
+
+fa-رقم x =>
+للتحكم فى حجم الصورة
+
+
+
+grid => ينقسم الى 12 عمود
+col-md-6 =>
+  لجعل كل عنصر ياخذ 6 صفوف اى عنصران فى الgrid
+
+col-md-4 =>
+لجعل كل عنصر ياخذ 4 صفوف اى 3 عناصر فى الgrid
+
+col-sm-6 =>
+لجعل كل عنصر ياخذ 6 صفوف اى 3 عناصر فى الgrid
+
+
+col-lg-3 =>
+لجعل كل عنصر ياخذ 3 صفوف اى 3 عناصر فى الgrid
+
+rounded bill=>
+يستخدم فى جعل العنصر على شكل بيضاوى
+
+
+bg-لون =>
+لعمل خافية للعنصر
+
+class=img-fluid =>
+يستخدم مع الصور فى حعل جميع الصور بنفس الحجم 
+
+text-uppercase =>
+يجعل نوع الخط كبير
+
+m-auto =>
+يستخدم فى جعل النص فى المنتصف
+
+text-mid-start =>
+يستخدم فى جعل العناصر فى الشاشات المتوسطة تبدا من الشمال
+
+fs-رقم=>
+يقوم بتعديل حجم الخط
+
+fw-bold =>
+درجة ظهور الخط
+
+text-light=>
+لون الخط فاتح
+
+w-100=>
+weight:100%
+
+lh-lg =>
+line high تستخدم فى عمل مسافة بين السطور
+
+list-unstyled =>
+يستخدم فى جعل عناصر ul ليس بها dot.
+
+gap-رقم =>
+يستخدم فى عمل مسافة بين العناصر وبعضها
+
+
+
